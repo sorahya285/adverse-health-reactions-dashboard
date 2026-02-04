@@ -69,7 +69,7 @@
     <li><strong>Programming:</strong> Python, Pandas, NumPy</li>
     <li><strong>Visualization:</strong> Matplotlib, Seaborn, Jupyter Notebooks</li>
     <li><strong>Data Access:</strong> OpenFDA API</li>
-    <li><strong>Dashboards (Planned):</strong> Tableau or Power BI</li>
+    <li><strong>Dashboards:</strong>Power BI</li>
   </ul>
 
   <h2>Recommendations (Planned)</h2>
